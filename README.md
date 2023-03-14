@@ -3,8 +3,10 @@
 
 ### Olá! Eu sou o Vinicius Lemes 😀
 - 💻 Desenvolvedor back-end.
-- 🐍 Python.
-- 
+- ☕ Java.
+- 🐍 Python. 
+- 📚 AWS
+- 🐬 MySQL 
 
 
 <div style="display: inline_block"><br>
