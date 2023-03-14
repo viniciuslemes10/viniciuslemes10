@@ -5,7 +5,7 @@
 - 💻 Desenvolvedor back-end.
 - ☕ Java.
 - 🐍 Python. 
-- 📚 AWS
+- ☁️ AWS
 - 🐬 MySQL 
 
 
