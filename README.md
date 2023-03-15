@@ -1,5 +1,5 @@
 ## Resumo profissional:
-  Desenvolvedor Back End com experiência em Java, Python e habilidades sólidas em lógica de programação, banco de dados MySQL e SQL Server e Clound AWS. Excelente habilidade de comunicação e trabalho em equipe. Buscando uma posição desafiadora em uma empresa dinâmica e em crescimento.
+  Desenvolvedor Back End com experiência em Java, Python e habilidades sólidas em lógica de programação, banco de dados MySQL e SQL Server e Clound AWS. Excelente habilidade de comunicação e trabalho em equipe. Buscando uma posição em uma empresa voltada a tecnologia.
 
 ### Olá! Eu sou o Vinicius Lemes 😀
 - 💻 Desenvolvedor back-end.
