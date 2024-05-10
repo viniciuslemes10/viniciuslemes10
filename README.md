@@ -5,17 +5,17 @@
   <a href="https://www.instagram.com/vini_lemes_07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vinikjhgfds@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<br>
+<br>
 
 ![Vinicius Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuslemes10&show_icons=true&theme=radical)
 
-- 💻 Desenvolvedor back-end.
-- ☕ Java.
-- 🐍 Python. 
-- ☁️ AWS
-- 🐬 MySQL 
+- ☕ Java         | 🅰️ Angular
+- 📤 Kafka        | ☸️ Kubernetes
+- 🗃️ DB2          | 🐇 RabbitMQ
+- 🍃 Spring Boot  | 🐬 MySQL  
 
 
 
-## Contato:
  
 
